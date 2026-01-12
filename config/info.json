@@ -56,11 +56,12 @@
         { "label": "/",       "row": 3, "col": 10, "x": 13, "y":  3.36 },
         { "label": "RShift",  "row": 3, "col": 11, "x": 14, "y":  3.36 },
 
-        { "label": "TAB",     "row": 4, "col":  1, "x":  5, "y":  4.235 },
-        { "label": "BSPC",    "row": 4, "col":  2, "x":  5, "y":  5.235 },
-        { "label": "GUI",     "row": 4, "col":  3, "x":  3, "y":  3.985 },
-        { "label": "SPC",     "row": 4, "col":  4, "x":  4, "y":  4.11 },
-        { "label": "DEL",     "row": 4, "col":  5, "x":  4, "y":  5.11 },
+        { "label": "TAB",     "row": 4, "col":  1, "x":  3, "y":  3.985 },
+        { "label": "BSPC",    "row": 4, "col":  2, "x":  4, "y":  4.11 },
+        { "label": "GUI",     "row": 4, "col":  3, "x":  5, "y":  4.235 },
+        { "label": "SPC",     "row": 4, "col":  4, "x":  4, "y":  5.11 },
+        { "label": "DEL",     "row": 4, "col":  5, "x":  5, "y":  5.235 },
+        
         { "label": "ENT",     "row": 4, "col":  6, "x":  9, "y":  5.235 },
         { "label": "SPC",     "row": 4, "col":  8, "x": 10, "y":  4.11 },
         { "label": "BSPC",    "row": 4, "col": 10, "x":  9, "y":  4.235 }
