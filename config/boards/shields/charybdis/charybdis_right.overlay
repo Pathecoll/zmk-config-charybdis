@@ -62,14 +62,4 @@
     device = <&trackball>;
   };
 
-  zephyr_cdc_acm_uart: cdc_acm_uart {
-    compatible = "zephyr,cdc-acm-uart";
-    status = "okay";
-  };
-
-  chosen {
-    zephyr,console = &zephyr_cdc_acm_uart;
-    zephyr,shell-uart = &zephyr_cdc_acm_uart;
-    zephyr,uart-mcumgr = &zephyr_cdc_acm_uart;
-  };
 };
